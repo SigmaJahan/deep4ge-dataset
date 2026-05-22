@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.h5
+*.hdf5
+.env
+.venv/
+venv/
+*.swp
+*.swo
+*~
+.DS_Store
+output/
+trained_models/
+models/
+
+# Exclude templates, papers, and archives
+ICSME-Dataset-template-example/
+paper/
+paper_artifacts/
+paper_overleaf_clean.zip
+paper_overleaf_clean/
