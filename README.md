@@ -18,7 +18,7 @@ A large dataset of **14,227 training logs** from mutated DNN programs (**9,845 f
 | Unique StackOverflow IDs (with logs) | 59 |
 | Total epoch records | 719,560 |
 | Median epochs per log | 50 |
-| Archive DOI | [10.5281/zenodo.20043014](https://doi.org/10.5281/zenodo.20043014) |
+| Archive DOI | [10.5281/zenodo.20337241](https://doi.org/10.5281/zenodo.20337241) |
 
 ## Fault Categories
 
@@ -116,4 +116,4 @@ deep4ge/
 ## Citation
 
 Use [CITATION.cff](CITATION.cff) for citation metadata. The archived release is
-available at [10.5281/zenodo.20043014](https://doi.org/10.5281/zenodo.20043014).
+available at [10.5281/zenodo.20337241](https://doi.org/10.5281/zenodo.20337241).

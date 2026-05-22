@@ -6,10 +6,10 @@ authors:
   - family-names: Jahan
     given-names: Sigma
 license: "CC-BY-4.0"
-version: "v1.0.1"
-date-released: 2026-05-04
-doi: 10.5281/zenodo.20043014
-url: "https://doi.org/10.5281/zenodo.20043014"
+version: "v1.0.0"
+date-released: 2026-05-22
+doi: 10.5281/zenodo.20337241
+url: "https://doi.org/10.5281/zenodo.20337241"
 keywords:
   - deep learning
   - mutation testing
